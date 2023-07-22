@@ -1,0 +1,11 @@
+Id: 1
+
+    Summary: The Sustainable Urban Development Initiative is a comprehensive project seeking to pioneer a sustainable urban development plan. The plan will integrate cutting-edge sustainable architectural practices with urban planning strategies that are both eco-friendly and supportive of human wellbeing. The project aims to create a blueprint for future cities that balance environmental considerations, human health, and wellbeing in their design and functionality.
+
+Id: 2
+
+    Summary: The Neuro-Urbanism City Design project is a research-driven endeavor aiming to design a cityscape that promotes cognitive health and wellbeing, guided by principles of neurology and human-centered design. The project will delve into how urban environments can influence cognitive health and harness this understanding to create urban spaces that are both engaging and beneficial for inhabitants' mental health. The goal is to create a city design framework that other urban planners can use to make cities more conducive to cognitive health.
+
+Id: 3
+
+    Summary: The Digital Transformation for Architectural Design project focuses on assisting an architectural firm in overhauling their design process and effectively leveraging technology. The project will involve identifying and implementing suitable digital tools, optimizing the design process, and enhancing the firm's capabilities in creating and presenting digital renderings of their designs. The ultimate goal is to increase the efficiency, creativity, and communication effectiveness of the architectural firm through digital transformation.
